@@ -122,6 +122,7 @@ export default function TodoList() {
             textDecorationLine: "line-through",
             textDecorationThickness: "3px",
             fontWeight: "bold",
+            textDecorationColor: "red",
           }
         : {}
     }
